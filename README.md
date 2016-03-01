@@ -12,7 +12,7 @@
 ![Alt text] (https://github.com/angelicamedina/Messenger/blob/master/screenshots/screenshots.PNG)
 "Message Screen")
 <br><br>
-<b>Implicit Intent Screen</b>&nbspo&nbsp;:honeybee:<br><br>
+<b>Implicit Intent Screen</b>&nbsp;&nbsp;:honeybee:<br><br>
 ![Alt text] (https://github.com/angelicamedina/Messenger/blob/master/screenshots/screenshots2.PNG)
 "Implicit Intent Screen")
 <br><br>
