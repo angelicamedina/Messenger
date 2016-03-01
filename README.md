@@ -8,11 +8,11 @@
 ![Alt text] (https://github.com/angelicamedina/Messenger/blob/master/screenshots/Capture.PNG)
 Start Screen
 <br><br>
-<b>Message Screen</b>&nbsp;&nbsp;:bowtie:<br><br>
+<b>Message Screen</b>&nbsp;&nbsp;:pencil:<br><br>
 ![Alt text] (https://github.com/angelicamedina/Messenger/blob/master/screenshots/screenshots.PNG)
 Message Screen
 <br><br>
-<b>Implicit Intent Screen</b>&nbsp;&nbsp;:honeybee:<br><br>
+<b>Implicit Intent Screen</b>&nbsp;&nbsp;:bowtie:<br><br>
 ![Alt text] (https://github.com/angelicamedina/Messenger/blob/master/screenshots/screenshots2.PNG)
 "Implicit Intent Screen")
 <br><br>
