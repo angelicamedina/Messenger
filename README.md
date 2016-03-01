@@ -14,7 +14,7 @@ Message Screen
 <br><br>
 <b>Implicit Intent Screen</b>&nbsp;&nbsp;:bowtie:<br><br>
 ![Alt text] (https://github.com/angelicamedina/Messenger/blob/master/screenshots/screenshots2.PNG)
-"Implicit Intent Screen")
+Implicit Intent Screen
 <br><br>
 <b>SMS Message Screen</b>&nbsp;&nbsp;:envelope:<br><br>
 ![Alt text] (https://github.com/angelicamedina/Messenger/blob/master/screenshots/screenshots3.PNG)
