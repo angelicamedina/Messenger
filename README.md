@@ -1,6 +1,6 @@
 # Messenger App - Text Messenging App Project<br>
 <b>Norwalk High School</b> :school: - Project Lead The Way (PLTW) Computer Sceince</b><br>
-<b>Class:</b> Computer Science Applications (CSA) -2nd Year (Sophmores) <br>&nbsp;&nbsp;:bowtie:
+<b>Class:</b> Computer Science Applications (CSA) -2nd Year (Sophmores) <br>&nbsp;&nbsp;:bowtie:<br><br>
 <b>Deliverables:</b> Completed apps are tested on a device, presented to peers, and uploaded to GitHUb for teacher review and grade.
 <br>
 <b>Example screenshots of our completed messenger app.</b><br><br>
